@@ -4,7 +4,7 @@
 
 -My nickname is Boss
 
-![picture](/img/ME.jpg)
+![picture](/Img/ME.jpg)
 
 
 [cryptography](cryptography.md)
