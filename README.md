@@ -6,4 +6,4 @@
 
 <img src = "Img/ME.jpg">
 
-[Decryption](cryptography.md)
+[cryptography](cryptography.md)
