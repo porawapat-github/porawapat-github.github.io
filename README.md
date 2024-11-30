@@ -1,10 +1,10 @@
 # porawapat-github.github.io
 
-<h1 align="center">Hi 👋, I'm PORAWAPAT MUTARAPAT</h1>
+-Hi 👋, I'm PORAWAPAT MUTARAPAT
 
-<h1 align="center">My nickname is Boss </h1>
+-My nickname is Boss
 
-<img src = "Img/ME.jpg">
+![picture](/img/ME.jpg)
 
 
 [cryptography](cryptography.md)
