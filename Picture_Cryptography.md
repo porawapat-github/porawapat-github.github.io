@@ -1,1 +1,1 @@
-![Picture_Cryptography](Img/Cryptography.png)
+![Picture_Cryptography](Img/Cryptography_G.png)
