@@ -13,6 +13,8 @@
 
 
 # **Gartner Glossary**
+-รูป
+[cryptography](cryptography.md)
 - https://www.gartner.com/en/glossary/all-terms
    - In this cryptography method (also known as symmetric-key cryptography), the single key needed to encrypt and decrypt messages is a shared secret between the communicating parties. The biggest problem with this method is that the secret key must be communicated through an external mechanism separate from the communication channel over which the encrypted text flows. In addition, secret-key systems do not support digital signatures. These limitations are addressed in public-key cryptography (see separate entry).
 
