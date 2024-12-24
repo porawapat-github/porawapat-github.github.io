@@ -1,3 +1,4 @@
+คำใหม่ครับ
 # **Access control system**
 
 # **CISSP Glossary - Student Guide**
