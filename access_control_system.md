@@ -1,7 +1,7 @@
 # **Access control system**
 
 # **CISSP Glossary - Student Guide**
-- https://www.isc2.org/certifications/cissp/cissp-student-glossary
+- https://www.isc2.org/certifications/cissp/cissp-student-glossary    <br>
    -Means to ensure that access to assets is authorized and restricted based on business and security requirements related to logical and physical systems.      
  
    - **ChatGPT**
