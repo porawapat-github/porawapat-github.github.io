@@ -13,6 +13,6 @@
 [cryptography](cryptography.md)<br>
 
 คำหัวข้อให้ครับ<br>
-[access_control_system](access_control_system.md)<br>
+[access_control_system](access-control-system.md)<br>
 
 [Christmas-Card](Christmas-Card.md)
