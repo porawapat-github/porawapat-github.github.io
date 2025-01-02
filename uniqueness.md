@@ -1,6 +1,6 @@
 # **Uniqueness**
 <br>![ManSurfingGIF](https://github.com/user-attachments/assets/60d19e40-d977-4dcd-afc6-c6d222a9ef9c)<br>
-[Caltech](https://pg-p.ctme.caltech.edu/blog/data-analytics/what-is-data-quality-management)<>br
+[Caltech](https://pg-p.ctme.caltech.edu/blog/data-analytics/what-is-data-quality-management)<br>
 # **Definition** 
 
 -It ensures the absence of duplications or redundant information within datasets. Analysts use data cleansing and deduplication techniques to address low uniqueness scores.
