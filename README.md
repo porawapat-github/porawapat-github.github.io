@@ -10,9 +10,7 @@
 
 ![picture](/Img/ME.jpg)
 
-[cryptography](cryptography.md)<br>
-
-คำหัวข้อให้ครับ<br>
+<br>
 [access_control_system](access-control-system.md)<br>
 
 [Christmas-Card](Christmas-Card.md)
