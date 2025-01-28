@@ -1,5 +1,5 @@
 ### **🔐 Security Control**
- 🔑 ลูกบิดล็อคประตู
+# 🔑 ลูกบิดล็อคประตู
 - สถานที่:
 - Control Function: Preventative
 - Type of Security Control: Physical Control
