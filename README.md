@@ -8,12 +8,16 @@
   - ปีที่ 3
   - วิทยาการคอมพิวเตอร์
 
-<br>![picture](/Img/ME.jpg)<br>
+<br>![Picture](/Img/ME.jpg)
 
-[access_control_system](access-control-system.md)<br>
+---
 
-[Christmas-Card](Christmas-Card.md)<br>
+[Access_Control_System](access-control-system.md)<br>
 
-[uniqueness](uniqueness.md)<br>
+[Christmas Card](Christmas-Card.md)<br>
 
-[security-control](security-control.md)
+[Uniqueness](uniqueness.md)<br>
+
+[Security Control](security-control.md)
+
+---
