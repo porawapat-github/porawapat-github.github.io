@@ -1,4 +1,7 @@
-### **🔐 Security Control**
+#🔐 Security Control
+
+---
+
 # 🔑 ลูกบิดล็อคประตู
 - สถานที่:
 - Control Function: Preventative
