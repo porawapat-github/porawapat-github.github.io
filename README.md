@@ -16,4 +16,4 @@
 
 [uniqueness](uniqueness.md)<br>
 
-[security-control(Security Control)](security-control.md)
+[security-control](security-control.md)
