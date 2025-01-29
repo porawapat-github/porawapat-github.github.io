@@ -37,6 +37,6 @@
 
 #### สมาชิกคนอื่นในกลุ่ม
 ##### 1 [Mr.Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
-##### 2 [Mr.Nutparit Somboon]()**
+##### 2 [Mr.Nutparit Somboon]()
 ##### 3 [Mr.Nontawat Phunpuek](https://nontawatjgm.github.io/boardgame)
 ##### 4 [Mr.Sathaporn Sattayachiti]()
