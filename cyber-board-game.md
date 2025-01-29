@@ -28,7 +28,7 @@
 
 
 #### 📽️ วิดีโอกิจกรรม 📽️
-[Video](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=3)<br>
+[!Video](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=3)<br>
 
 
 #### 📝 Note 🗒️
