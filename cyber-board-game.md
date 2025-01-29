@@ -36,7 +36,7 @@
 ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media<br>
 
 #### สมาชิกคนอื่นในกลุ่ม
-##### - [Mr.Peeramate Jukkasat]()
+##### - [Mr.Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
 ##### - [Mr.Nutparit Somboon]()
 ##### - [Mr.Nontawat Phunpuek](https://nontawatjgm.github.io/boardgame)
 ##### - [Mr.Sathaporn Sattayachiti]()
