@@ -22,11 +22,13 @@
    - Staff 2 คน
 
 #### 🖼️ ภาพกิจกรรม 🖼️
-
+![Game1](Img/Game1.jpg)<br>
+![Game2](Img/Game2.png)<br>
+![Game3](Img/Game3.jpg)<br>
 
 
 #### 📽️ วิดีโอกิจกรรม 📽️
-
+![Video](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=3)<br>
 
 
 #### 📝 Note 🗒️
