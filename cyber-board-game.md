@@ -28,10 +28,15 @@
 
 
 #### 📽️ วิดีโอกิจกรรม 📽️
-[!Video](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=3)<br>
+
+[![Cyber Board Game Video](Img/Video.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=1 "Cyber Board Game Video")
 
 
 #### 📝 Note 🗒️
 ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media<br>
 
 #### สมาชิกคนอื่นในกลุ่ม
+##### - [Mr.Peeramate Jukkasat]()
+##### - [Mr.Nutparit Somboon]()
+##### - [Mr.Nontawat Phunpuek]()
+##### - [Mr.Sathaporn Sattayachiti]()
