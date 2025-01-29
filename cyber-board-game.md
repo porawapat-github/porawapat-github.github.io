@@ -29,7 +29,7 @@
 
 #### 📽️ วิดีโอกิจกรรม 📽️
 
-[![Cyber Board Game Video](Img/Video.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=1 "Cyber Board Game Video")
+[![Cyber Board Game Video](Img/Video.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=1)
 
 
 #### 📝 Note 🗒️
