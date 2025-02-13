@@ -20,6 +20,8 @@
 
 [Security Control](security-control.md)<br>
 
-[Cyber Board Game.md](cyber-board-game.md)<br>
+[Cyber Board Game](cyber-board-game.md)<br>
+
+[Security Requirements](security-requirements.md)<br>
 
 ---
